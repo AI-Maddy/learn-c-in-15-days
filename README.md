@@ -138,5 +138,3 @@ MIT License — free to use, modify, and share.
 
 ---
 
-If you want, I can generate the **folder structure**, **Day 1 content**, or **cheatsheets** next.
-
