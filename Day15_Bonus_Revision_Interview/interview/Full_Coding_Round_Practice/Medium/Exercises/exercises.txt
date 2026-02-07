@@ -1,0 +1,5 @@
+1. Remove duplicates from an array.
+2. Find the second largest element.
+3. Check if two strings are anagrams.
+4. Multiply two matrices.
+5. Print frequency of each character in a string.

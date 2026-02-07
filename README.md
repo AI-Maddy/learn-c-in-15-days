@@ -40,21 +40,23 @@ Jump directly to:
 
 | Day | Topic | Folder |
 |-----|-------|--------|
-| 1 | Basics, setup, first program | `Day01_Basics` |
-| 2 | Data types, variables, operators | `Day02_Operators_Expressions` |
-| 3 | Control flow (if, switch, loops) | `Day03_Control_Flow` |
-| 4 | Functions & modular programming | `Day04_Functions` |
-| 5 | Arrays & strings | `Day05_Arrays_Strings` |
-| 6 | Introduction to pointers | `Day06_Pointers_Intro` |
-| 7 | Advanced pointers & pointer arithmetic | `Day07_Pointers_Advanced` |
-| 8 | Structures & unions | `Day08_Structures_Unions` |
-| 9 | Enums, typedef, header files | `Day09_Enums_Typedef` |
-| 10 | File handling (I/O) | `Day10_Files_IO` |
-| 11 | Dynamic memory allocation | `Day11_Dynamic_Memory` |
-| 12 | Preprocessor & macros | `Day12_Preprocessor` |
-| 13 | Data structures in C | `Day13_Data_Structures` |
-| 14 | Advanced topics & best practices | `Day14_Advanced_Topics` |
-| 15 | Revision + interview questions | `Day15_Revision_Interview` |
+| 1 | Basics, setup, first program, syntax, compilation | `Day01_Basics` |
+| 2 | Operators & expressions, precedence, evaluation | `Day02_Operators_Expressions` |
+| 3 | Control flow, branching, loops | `Day03_Control_Flow` |
+| 4 | Functions, modularity, parameters | `Day04_Functions` |
+| 5 | Arrays, storage, traversal | `Day05_Arrays` |
+| 6 | Strings, manipulation, functions | `Day06_Strings` |
+| 7 | Pointers, memory, arithmetic | `Day07_Pointers` |
+| 8 | Dynamic memory, allocation, management | `Day08_Dynamic_Memory` |
+| 9 | Structures, fields, organization | `Day09_Structures` |
+| 10 | File handling, input, output | `Day10_File_Handling` |
+| 11 | Unions, enums, typedef, representation, abstraction | `Day11_Bonus_Unions_Enums_Typedef` |
+| 12 | Preprocessor, macros, directives | `Day11_Preprocessor` |
+| 13 | Recursion, call stack, patterns | `Day12_Recursion` |
+| 14 | Searching & sorting, algorithms, efficiency | `Day13_Searching_Sorting` |
+| 15 | Linked lists, nodes, traversal | `Day14_Linked_Lists` |
+| 16 | Advanced pointers, indirection, multi-level | `Day15_Advanced_Pointers` |
+| 17 | Bonus: Revision & Interview, review, questions | `Day15_Bonus_Revision_Interview` |
 
 ---
 
@@ -62,25 +64,28 @@ Jump directly to:
 
 ```text
 learn-c-in-15-days/
+├─ LICENSE
+├─ README.md
+├─ cheatsheets/
 ├─ Day01_Basics/
 ├─ Day02_Operators_Expressions/
 ├─ Day03_Control_Flow/
 ├─ Day04_Functions/
-├─ Day05_Arrays_Strings/
-├─ Day06_Pointers_Intro/
-├─ Day07_Pointers_Advanced/
-├─ Day08_Structures_Unions/
-├─ Day09_Enums_Typedef/
-├─ Day10_Files_IO/
-├─ Day11_Dynamic_Memory/
-├─ Day12_Preprocessor/
-├─ Day13_Data_Structures/
-├─ Day14_Advanced_Topics/
-├─ Day15_Revision_Interview/
-├─ cheatsheets/
-└─ README.md
+├─ Day05_Arrays/
+├─ Day06_Strings/
+├─ Day07_Pointers/
+├─ Day08_Dynamic_Memory/
+├─ Day09_Structures/
+├─ Day10_File_Handling/
+├─ Day11_Bonus_Unions_Enums_Typedef/
+├─ Day11_Preprocessor/
+├─ Day12_Recursion/
+├─ Day13_Searching_Sorting/
+├─ Day14_Linked_Lists/
+├─ Day15_Advanced_Pointers/
+├─ Day15_Bonus_Revision_Interview/
 ```
-
+---
 Each day contains:
 - `README.md` (concepts + examples)  
 - `examples/` (small programs)  

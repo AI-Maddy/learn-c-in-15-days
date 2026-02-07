@@ -1,0 +1,5 @@
+1. Reverse a string without using strrev().
+2. Count the number of vowels in a string.
+3. Find the largest element in an array.
+4. Check whether a number is prime.
+5. Compute the sum of digits of a number.

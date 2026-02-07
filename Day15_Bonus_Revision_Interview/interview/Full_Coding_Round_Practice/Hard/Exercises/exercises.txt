@@ -1,0 +1,5 @@
+1. Longest substring without repeating characters.
+2. Merge two sorted arrays without extra space.
+3. Detect a cycle in a linked list.
+4. Implement recursive binary search.
+5. Find the missing number from 1 to n.
